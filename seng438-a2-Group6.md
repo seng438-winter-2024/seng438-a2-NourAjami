@@ -6,8 +6,8 @@
 | -------------- |---------------|
 | Student Names: | Nour Ajami    |
 |                | Mohamed Amara |
-|                | Krishna       |
-|                | Zuhaer        |
+|                | Krishna Shah  |
+|                | Zuhaer Rahman |
 
 # 1 Introduction
 

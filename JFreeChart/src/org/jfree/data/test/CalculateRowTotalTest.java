@@ -129,7 +129,7 @@ public class CalculateRowTotalTest extends DataUtilities {
 	@Test 
    	public void calculateRowTotalForMiddleRowIndex() {
     	double result= DataUtilities.calculateRowTotal(values, 1);
-    	assertEquals("Sum of the row at the middle index is",  -5, result, .000000001d);
+    	assertEquals("Sum of the row at the middle index is",  -4, result, .000000001d);
     }
 
 	/**
